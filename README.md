@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZeusNorthman
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning about Crypto
-- 💞️ I’m looking to collaborate on Crypto
+- 💞️ I’m looking to collaborate on Crypto types
 - 📫 How to reach me by telling me your request in mail
 
 <!---
