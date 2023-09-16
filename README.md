@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning about Crypto
 - 💞️ I’m looking to collaborate on Crypto types
-- 📫 How to reach me by telling me your request in mail
+- 📫 How to reach me by telling me your request in mails
 
 <!---
 ZeusNorthman/ZeusNorthman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
